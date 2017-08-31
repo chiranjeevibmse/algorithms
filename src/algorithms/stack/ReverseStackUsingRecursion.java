@@ -27,7 +27,5 @@ public class ReverseStackUsingRecursion {
 		int next = stack.pop();
 		System.out.print(next + ",");
 		reverse(stack);
-
-
 	}
 }

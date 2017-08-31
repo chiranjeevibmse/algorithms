@@ -1,2 +1,2 @@
 # algorithms
-Programing Puzzles 
+Programming Puzzles 
